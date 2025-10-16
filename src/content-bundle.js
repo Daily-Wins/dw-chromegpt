@@ -572,14 +572,14 @@ class UIManager {
   }
 
   setProgress(percentage, completed, total, filled, failed) {
-    // Show "X fyllda av Y fält" instead of just completed/total
-    this.updateButton(`⏳ ${filled} fyllda av ${total} fält (${percentage}%)`);
+    // Show "X ifyllda av Y fält" instead of just completed/total
+    this.updateButton(`⏳ ${filled} ifyllda av ${total} fält (${percentage}%)`);
     this._setDisabled(true);
   }
 
   setSuccess(filled, failed, autoResetDelay = 3000) {
     const total = filled + failed;
-    this.updateButton(`✅ ${filled} av ${total} lyckades`);
+    this.updateButton(`✅ ${filled} av ${total} ifyllda`);
     this._setDisabled(false);
     setTimeout(() => this.reset(), autoResetDelay);
   }
