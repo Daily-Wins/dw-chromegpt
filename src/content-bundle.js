@@ -578,7 +578,8 @@ class UIManager {
   }
 
   setSuccess(filled, failed, autoResetDelay = 3000) {
-    this.updateButton(`✅ Klart! ${filled} fyllda, ${failed} misslyckades`);
+    const total = filled + failed;
+    this.updateButton(`✅ ${filled} av ${total} lyckades`);
     this._setDisabled(false);
     setTimeout(() => this.reset(), autoResetDelay);
   }
