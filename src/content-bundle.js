@@ -421,6 +421,7 @@ class UIManager {
     this.version = config.version || '1.0.0';
     this.buttonClass = config.buttonClass || 'ai-fill-button';
     this.onClick = config.onClick || (() => {});
+    this.onClose = config.onClose || (() => {});
     this.button = null;
     this.originalText = '🤖 Fyll formulär med AI';
   }
@@ -434,35 +435,93 @@ class UIManager {
     }
 
     console.log('[UIManager] Creating button');
-    this.button = document.createElement('button');
-    this.button.className = this.buttonClass;
-    this.button.textContent = this.originalText;
-    this.button.style.cssText = `
+
+    // Create container for button and close button
+    const container = document.createElement('div');
+    container.className = `${this.buttonClass}-container`;
+    container.style.cssText = `
       position: fixed !important;
       bottom: 20px !important;
       right: 20px !important;
       z-index: 2147483647 !important;
-      padding: 15px 25px !important;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
-      color: white !important;
-      border: none !important;
-      border-radius: 12px !important;
+      display: flex !important;
+      align-items: center !important;
+      gap: 8px !important;
+    `;
+
+    // Create main button - more discrete
+    this.button = document.createElement('button');
+    this.button.className = this.buttonClass;
+    this.button.textContent = '🤖';
+    this.button.title = 'Fyll formulär med AI';
+    this.button.style.cssText = `
+      padding: 10px 12px !important;
+      background: rgba(102, 126, 234, 0.15) !important;
+      color: #667eea !important;
+      border: 1px solid rgba(102, 126, 234, 0.3) !important;
+      border-radius: 8px !important;
       cursor: pointer !important;
-      font-weight: bold !important;
-      font-size: 16px !important;
+      font-size: 18px !important;
       font-family: Arial, sans-serif !important;
-      box-shadow: 0 4px 16px rgba(0,0,0,0.3) !important;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+      transition: all 0.2s ease !important;
+      backdrop-filter: blur(10px) !important;
     `;
     this.button.onclick = () => this.onClick();
-    document.body.appendChild(this.button);
+
+    // Hover effect
+    this.button.onmouseenter = () => {
+      this.button.style.background = 'rgba(102, 126, 234, 0.25) !important';
+      this.button.style.transform = 'scale(1.05)';
+    };
+    this.button.onmouseleave = () => {
+      if (!this.button.disabled) {
+        this.button.style.background = 'rgba(102, 126, 234, 0.15) !important';
+        this.button.style.transform = 'scale(1)';
+      }
+    };
+
+    // Create close button
+    const closeBtn = document.createElement('button');
+    closeBtn.className = `${this.buttonClass}-close`;
+    closeBtn.textContent = '×';
+    closeBtn.title = 'Inaktivera för denna sida';
+    closeBtn.style.cssText = `
+      padding: 6px 10px !important;
+      background: rgba(244, 67, 54, 0.1) !important;
+      color: #f44336 !important;
+      border: 1px solid rgba(244, 67, 54, 0.2) !important;
+      border-radius: 6px !important;
+      cursor: pointer !important;
+      font-size: 18px !important;
+      font-family: Arial, sans-serif !important;
+      line-height: 1 !important;
+      transition: all 0.2s ease !important;
+      backdrop-filter: blur(10px) !important;
+    `;
+    closeBtn.onclick = (e) => {
+      e.stopPropagation();
+      this.onClose();
+    };
+
+    closeBtn.onmouseenter = () => {
+      closeBtn.style.background = 'rgba(244, 67, 54, 0.2) !important';
+    };
+    closeBtn.onmouseleave = () => {
+      closeBtn.style.background = 'rgba(244, 67, 54, 0.1) !important';
+    };
+
+    container.appendChild(this.button);
+    container.appendChild(closeBtn);
+    document.body.appendChild(container);
     console.log('[UIManager] Button created and added to DOM');
   }
 
   removeButton() {
-    const oldButton = document.querySelector(`.${this.buttonClass}`);
-    if (oldButton) {
-      console.log('[UIManager] Removing old button');
-      oldButton.remove();
+    const container = document.querySelector(`.${this.buttonClass}-container`);
+    if (container) {
+      console.log('[UIManager] Removing button container');
+      container.remove();
     }
     this.button = null;
   }
@@ -472,7 +531,14 @@ class UIManager {
     if (btn) {
       console.log(`[UIManager] Button update: "${text}"${background ? ` (bg: ${background})` : ''}`);
       btn.textContent = text;
-      if (background) btn.style.background = background;
+
+      // Make button more prominent when active
+      if (background) {
+        btn.style.background = background;
+        btn.style.padding = '12px 20px !important';
+        btn.style.fontSize = '14px !important';
+        btn.style.border = 'none !important';
+      }
     } else {
       console.warn('[UIManager] Button not found when trying to update');
     }
@@ -511,8 +577,17 @@ class UIManager {
   }
 
   reset() {
-    this.updateButton(this.originalText, 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)');
-    this._setDisabled(false);
+    const btn = document.querySelector(`.${this.buttonClass}`);
+    if (btn) {
+      // Restore discrete idle state
+      btn.textContent = '🤖';  // Just emoji
+      btn.style.background = 'rgba(102, 126, 234, 0.15) !important';  // Semi-transparent
+      btn.style.padding = '10px 12px !important';  // Small padding
+      btn.style.fontSize = '18px !important';  // Back to emoji size
+      btn.style.border = '1px solid rgba(102, 126, 234, 0.3) !important';
+      btn.style.opacity = '1 !important';
+      this._setDisabled(false);
+    }
   }
 
   getButton() {
@@ -545,7 +620,8 @@ const extractor = new FormFieldExtractor({ version: CONFIG.version });
 const uiManager = new UIManager({
   version: CONFIG.version,
   buttonClass: CONFIG.ui.buttonClass,
-  onClick: handleButtonClick
+  onClick: handleButtonClick,
+  onClose: handleCloseClick
 });
 
 const filler = new FormFiller({
@@ -593,6 +669,74 @@ async function handleButtonClick() {
   }
 }
 
+// ============================================
+// URL EXCLUSION FUNCTIONS
+// ============================================
+
+/**
+ * Check if current URL or domain is excluded
+ * @returns {Promise<boolean>}
+ */
+async function isUrlExcluded() {
+  const currentUrl = window.location.href;
+  const currentDomain = window.location.hostname;
+
+  return new Promise((resolve) => {
+    chrome.storage.local.get(['excludedUrls'], (result) => {
+      const excludedUrls = result.excludedUrls || [];
+
+      // Check if current URL or domain is in exclusion list
+      const isExcluded = excludedUrls.some(excluded => {
+        return currentUrl === excluded || currentDomain === excluded;
+      });
+
+      console.log('[Content] URL exclusion check:', {
+        currentUrl,
+        currentDomain,
+        excludedUrls,
+        isExcluded
+      });
+
+      resolve(isExcluded);
+    });
+  });
+}
+
+/**
+ * Add current domain to exclusion list
+ */
+async function excludeCurrentDomain() {
+  const currentDomain = window.location.hostname;
+
+  return new Promise((resolve) => {
+    chrome.storage.local.get(['excludedUrls'], (result) => {
+      const excludedUrls = result.excludedUrls || [];
+
+      // Add domain if not already excluded
+      if (!excludedUrls.includes(currentDomain)) {
+        excludedUrls.push(currentDomain);
+
+        chrome.storage.local.set({ excludedUrls }, () => {
+          console.log('[Content] Domain excluded:', currentDomain);
+          console.log('[Content] Current exclusion list:', excludedUrls);
+          resolve(true);
+        });
+      } else {
+        console.log('[Content] Domain already excluded:', currentDomain);
+        resolve(false);
+      }
+    });
+  });
+}
+
+/**
+ * Handle close button click - exclude current domain
+ */
+async function handleCloseClick() {
+  await excludeCurrentDomain();
+  uiManager.removeButton();
+}
+
 // Initialize
 console.log(`${CONFIG.logging.prefix} v${CONFIG.version} loaded`);
 console.log(`  URL: ${window.location.href}`);
@@ -600,8 +744,16 @@ console.log(`  Frame: ${window === window.top ? 'top' : 'iframe'}`);
 
 // Only create button in top frame (not in iframes like reCAPTCHA)
 detector.initialize();
+
+// Check if current URL is excluded before creating button
 if (window === window.top) {
-  uiManager.createButton();
+  isUrlExcluded().then(excluded => {
+    if (excluded) {
+      console.log('[Content] URL is excluded - skipping button creation');
+    } else {
+      uiManager.createButton();
+    }
+  });
 } else {
   console.log('[Content] Skipping button creation in iframe');
 }
