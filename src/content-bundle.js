@@ -479,7 +479,7 @@ class UIManager {
       width: 16px !important;
       height: 16px !important;
       padding: 0 !important;
-      background: #f44336 !important;
+      background: #333 !important;
       color: white !important;
       border: 1px solid white !important;
       border-radius: 50% !important;
@@ -514,11 +514,11 @@ class UIManager {
     };
 
     closeBtn.onmouseenter = () => {
-      closeBtn.style.background = '#da190b !important';
+      closeBtn.style.background = '#000 !important';
       closeBtn.style.transform = 'scale(1.1)';
     };
     closeBtn.onmouseleave = () => {
-      closeBtn.style.background = '#f44336 !important';
+      closeBtn.style.background = '#333 !important';
       closeBtn.style.transform = 'scale(1)';
     };
 
