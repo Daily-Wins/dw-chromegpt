@@ -1,0 +1,26 @@
+/* Styles for AI Form Filler extension */
+
+.ai-fill-button {
+  margin: 10px 0;
+  padding: 10px 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  transition: all 0.3s;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.ai-fill-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.ai-fill-button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}

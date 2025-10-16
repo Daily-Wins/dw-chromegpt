@@ -1,0 +1,352 @@
+ 
+
+Affärsplan 2025
+” Vi identifierar och implementera små förbättringar som tillsammans skapar stora resultat med en garanterad ROI på 300 procent.”
+ 
+
+
+Daily Wins - AI företaget som tar bort allt tråk
+AI Officer som en Tjänst: Ett Förslag
+Bolagets Grundare
+Anders Bratland
+Anders är en passionerad ledare med omfattande erfarenhet inom AI, mjukvaruutveckling och organisationsutveckling. Som grundare av flera företag och rådgivare inom digitalisering har han byggt framgångsrika team och levererat innovativa lösningar som skapar värde. Han är särskilt känd för sin förmåga att kombinera teknik och mänskligt ledarskap för att driva förändring och förbättringar.
+
+Johnny Berlic
+Johnny är en visionär entreprenör och ledare med omfattande erfarenhet inom management, teknik och innovation. Som tidigare VD för flera framgångsrika företag har han drivit verksamheter från startup till börsnotering, inklusive att sexfaldiga marknadsandelar och säkra teknologiska patent. Hans arbete har erkänts med flera utmärkelser, bland annat Årets Företagare i Göteborg 2014. Johnny är särskilt engagerad i att ta bort hinder för framgång och främja en kultur av glädje och innovation.
+
+Pierre Chamat
+Pierre är en expert inom branding och e-handel med en gedigen erfarenhet av att skapa och leda globala marknadsföringsstrategier. Som grundare och kreativ ledare har han byggt framgångsrika varumärken och utvecklat effektiva tillväxtstrategier för ledande företag inom detaljhandeln. Pierre är särskilt känd för sin förmåga att kombinera kreativitet och affärsmässighet för att leverera exceptionella resultat i digitala miljöer.
+
+Flemming Vejlö – Grundare & Strategisk Affärs- och Teknikledare
+Flemming har över 25 års erfarenhet av ledarskap, affärsutveckling och produktutveckling inom fordons-, industri-, medtech- och tillverkningssektorn. Han har haft nyckelroller som Sales Director, CEO och Manager inom internationella företag som Volvo Group och Volvo Cars, där han drivit strategiska projekt, utvecklat nya affärsområden och lett tvärfunktionella team mot mätbara resultat.
+
+Hans kombination av teknisk kompetens (BSc i elektronik och datavetenskap), affärsmannaskap och förmåga att skapa tydliga mål och strukturer gör honom särskilt lämpad att driva Daily Wins vision om att leverera AI-lösningar med tydlig ROI. Flemming är van att bygga långsiktiga kundrelationer, leda förändringsprocesser och omsätta komplexa idéer till praktiska lösningar – precis det som krävs för att skala och kommersialisera Daily Wins erbjudande.
+
+Mission
+Vår mission är att kontinuerligt hjälpa företag att bli bäst på det de gör genom att fokusera på små förbättringar. Inspirerade av Team Sky och deras filosofi om “marginal gains” arbetar vi med att identifiera och implementera små förbättringar som tillsammans skapar stora resultat. Genom att undvika stora, oöverskådliga projekt som riskerar att aldrig bli klara, levererar vi praktiska, mätbara och verkliga förbättringar över tid.
+Vision
+"Ta bort tråket i världen/hos dig!"
+Att erbjuda företag en prisvärd, skalbar och expertledd AI-konsulttjänst som identifierar och rekommenderar genomförbara AI-projekt anpassade till deras unika verksamhetsbehov. Tjänsten, kallad ”AI Officer som en Tjänst”, syftar till att demokratisera tillgången till avancerade AI-strategier och möjliggöra för företag att utnyttja AI:s transformativa kraft utan att behöva anställa en heltidsanställd expert.
+Affärsmodell
+Erbjudande: Vårt kärnerbjudande är en Chief AI Officer (CAIO) AI Officer as a Service. Denna person arbetar på plats i företaget och genomför det som beskrivs under rubriken "Operativt Ramverk". Detta inkluderar allt från analys och strategi till implementering och mätning av AI-lösningar.
+Kostnad: Kunden betalar en fast månadskostnad på 29 000 SEK för CAIO-tjänsten. För projekt som genomförs och har en uppskattad ROI, är ersättningen till vårt bolag, Daily Wins, baserad på den förväntade ROI-vinsten under det första året. Detta innebär att kundens ROI alltid uppnår 1 år.
+Målgrupp:
+●	VD och ledning inom små och medelstora företag (SME) där personen även är delägare i bolaget.
+●	Eventuellt:?Avdelningar inom större företag som utforskar AI-initiativ med begränsad budget. (Tänker köksbolaget)
+Strategi för att nå målgruppen: 
+●	Vi når dessa genom att bjuda in 4-6 personer från samma eller närliggande orter som jobbar inom samma bransch till inspirerande lunchseminarier om AI. Dessa seminarier innehåller:
+◦	Vi ska pröva att rikta in oss på mindre städer.
+◦	Scarecity/FOMO: Vår CAIO har tyvärr inte tid för alla på orten. En, kanske två, hinns det med nu och projekt är långsiktiga, vi har inte sett något ställe än där effektiviseringar inte kunnat ske. ;-D
+●	En översikt av hur AI används idag.
+●	Exempel på framgångsrika implementationer.
+●	Möjligheter för deltagarna att identifiera och diskutera AI-applikationer inom sina egna verksamheter.
+Kärnerbjudande:
+●	Marginal Gains: Små men många förbättringar genom att AI-fiera tråkiga arbetsuppgifter. 
+●	Behovsanalys: Analysera befintliga affärsprocesser för att identifiera potentiella AI-integreringar.
+●	Projektrekommendationer: Presentera en skräddarsydd lista över AI-initiativ med tydliga ROI-mått.
+●	Implementeringsstöd: Tillhandahålla steg-för-steg-stöd eller samordna med externa partners för genomförande.
+SaaS (Service as a Service): En fast månadskostnad för motsvarande cirka 20% arbetstid.
+SaaS (Software as a Service): 
+●	Små effektivitetsprogram utvecklade för kunden och hostade av Daily Wins. 15% av grundersättningen).
+●	Effektivitetsprogram: En programvara som autmatiserar någon del med en klar ROI i sparade timmar. Kostnaden för effektiviseringen är ROI vinsten för 1 år.
+●	Betalning sker på två sätt:
+●	Allt direkt. Förändringar blir nya projekt som debiteras för sig. (Alternativ B för Daily Wins).
+●	SaaS abonnemang. En avbetalning på 3 år. Syfte: Förlänga kundrelationen och skapa mer förutsägbara intäkter framåt i tiden för Daily Wins. 
+
+Provision
+Etablera avtal om provision på nya kunder för de system som vi implementerar hos kunder. 
+
+Värdeförslag
+1.	Kostnadseffektiv expertis: 	
+2.	Skräddarsydda lösningar: AI Coachen analyserar kunden, deras processer och affär för att identifiera var vår verktygslåda av system och möjligheter kan passa in hos kunden. Vid behov kan anpassad utveckling göras för att automatisera processer.
+3.	Handlingsbara resultat: När AI Coachen identifierar dessa möjligheter, genomförs en ROI-kalkyl och AI Coachen får ansvaret för att utveckla och/eller implementera lösningarna. Priset för dessa lösningar baseras på den besparing kunden gör under 12 månader. Detta innebär att ROI alltid blir ett år för kunden på alla identifierade möjligheter.
+4.	Omvärldsanalys och strategisk planering: AI Coachen bidrar med kontinuerlig omvärldsanalys där lärdomar delas mellan de olika uppdragen som AI Coachen är på samt andra kollegor på bolaget. En dokumenterad AI-strategi för framtiden sätts.
+5.	Kostnadseffektiv expertis: Prisvärd tillgång till högkvalitativa AI-insikter utan långsiktiga anställningsåtaganden.
+6.	Skräddarsydda lösningar: AI Coachen analyserar kunden, deras processer och affär för att identifiera var vår verktygslåda av system och möjligheter kan passa in hos kunden. Vid behov kan anpassad utveckling göras för att automatisera processer.
+7.	Handlingsbara resultat: När AI Coachen identifierar dessa möjligheter, genomförs en ROI-kalkyl och AI Coachen får ansvaret för att utveckla och/eller implementera lösningarna. Priset för dessa lösningar baseras på den besparing kunden gör under 12 månader. Detta innebär att ROI alltid blir ett år för kunden på alla identifierade möjligheter.
+8.	Omvärldsanalys och strategisk planering: AI Coachen bidrar med kontinuerlig omvärldsanalys där lärdomar delas mellan de olika uppdragen som AI Coachen är på samt andra kollegor på bolaget. En dokumenterad AI-strategi för framtiden sätts.
+Operativt Ramverk
+Detaljerad process för CAIO
+1.	Analys och Förståelse av Företaget
+●	Identifiera affärsmålen: Förstå företagets övergripande strategi och nyckelmål.
+●	Kartlägg data: Ta reda på vilken data företaget har, dess kvalitet, samt hur den samlas in och lagras.
+●	Resurser och teknik: Bedöm tillgängliga teknologier, budget och kompetenser inom företaget.
+●	Risker och regleringar: Förstå vilka legala och etiska aspekter som gäller inom företagets sektor.
+2.	Utforska Möjligheter
+●	Identifiera quick wins: Leta efter områden där AI snabbt kan ge mätbara resultat (t.ex. automatisering av repetitiva processer).
+●	Innovation: Identifiera långsiktiga projekt där AI kan skapa nya affärsmöjligheter eller konkurrensfördelar.
+●	Benchmarking: Jämför med liknande företag i branschen för att förstå hur de använder AI.
+3.	Strategi och Prioritering
+●	Utveckla en AI-strategi: Koppla AI-initiativ till affärsmålen och sätt realistiska mål.
+●	Prioritera projekt: Rangordna initiativen baserat på förväntad avkastning, genomförbarhet och risk.
+4.	Proof of Concept (PoC)
+●	ROI analys görs för småskaligt start: Utveckla PoC för högprioriterade projekt.  I detta skede växer antalet personer och kompetenser Daily Wins bidrar med och detta är för att så snabbt och effektivt lösa problemet/poc:en. "Kära kund, ju effektivare Daily Wins är desto mer pengar tjänar vi, priset är redan bestämt."
+●	Mät resultat: Utvärdera effekterna i termer av ROI, tidsbesparingar eller förbättrad kundupplevelse.
+●	Iterera snabbt: Justera och förbättra PoC baserat på feedback.
+●	Utvecklingsarbete görs av Daily Wins så det tar ingen tid från kundens andra interna utvecklingsprojekt.
+●	Daily Wins hostar lösningar som byggs (i tex Azure etc). Lösningen underhålls för 15% av ursprungspriset/år.
+5.	Implementering och Skalning
+●	Bygg team: Rekrytera eller samarbeta med interna resurser och Daily Wins för att driva implementationen.
+●	Utbildning: Säkerställ att personalen är redo att arbeta med nya AI-system.
+●	Integrera: Implementera AI-lösningar i existerande arbetsflöden.
+1.	Mätning och Justering
+●	Uppföljning: Mät resultaten kontinuerligt mot de uppsatta målen.
+●	Feedback: Hämta insikter från användare och justera strategin vid behov.
+●	Skala upp: När ett projekt lyckas, identifiera nya områden där det kan replikeras.
+2.	Kommunikation och Kultur
+●	Kommunicera värdet: Visa ledningen och anställda hur AI bidrar till företaget.
+●	Bygg AI-kultur: Arbeta för att AI ska ses som en naturlig del av verksamheten. AI-kultur innebär även att det är naturligt att mäta och samla mätdata för att kunna förbättra affären. Mätdata är inget fult utan visar oss världen som den är så vi kan vara säkra på att göra den bättre genom att verifiera att det vi gjort gör skillnad.
+3.	Framtidssäkring
+●	Håll dig uppdaterad: Följ AI-trender och teknik för att säkerställa att företaget förblir konkurrenskraftigt.
+●	Kontinuerlig förbättring: Se AI som en pågående process snarare än ett engångsprojekt.
+Operativt Ramverk kortversion
+1.	Onboarding:
+●	Inledande konsultation för att förstå företagets mål och utmaningar.
+●	Datainsamling och analys av befintliga processer.
+2.	Analys & Rapportering:
+●	Identifiera operativa flaskhalsar eller ineffektiviteter.
+●	Utveckla en detaljerad AI-roadmap med potentiella projekt.
+3.	Löpande Stöd:
+●	Månatliga uppföljningar för att granska framsteg.
+●	Kontinuerlig förbättring av rekommendationer baserat på verksamhetsförändringar.
+Skalbarhet
+Tjänsten är utformad för att skalas över branscher genom att använda modulära verktyg och AI-ramverk som kan anpassas till olika verksamhetsbehov.
+Floskler… Men alla bolag har samma fundamentala saker de gör. De har kunder, leverantörer, medarbetare, konkurrenter, lagar och regler och tjäna pengar. Fakturor ska skickas, saker ska göras rätt etc. Verktygen som byggs upp i verktygslådan kommer passa flera kunder därför att flera problem är generiska. Efter hand räknar vi med att bli specialiserade inom några nischer av företag, kunna branschen innan och utan och då ännu effektivare effektivisera dem med.
+Potentiella Risker & Åtgärder
+1.	Risk: Bristande datamognad hos kunder.
+●	Åtgärd: Inkludera en datamognadsbedömning som en del av tjänsten.
+2.	Risk: Orealistiska förväntningar på resultat.
+●	Åtgärd: Sätt tydliga KPI:er och leveranser vid onboarding.
+Samarbetspartners
+Bland våra grundare och investerare finns kontaktnät, indirekt och direkt, till konsultfirmor av olika slag från utveckling till förändringsledning och tullexpertis. Detta är ett brett nätverk där vi skall verka för att affärer ska hamna hos primärt våra investerare när affärstillfällen så bjuds, som exempelvis att mer resurser behövs i något projekt och i våra kontaktnätverk när specialistkompetens behövs.
+Externa samarbetspartners has främst i form av SaaS leverantörer av olika tjänster som hjälper till att effektivisera processer i bolag. Daily Wins samarbetar primärt med sådana bolag som ger en provision på den försäljning som skapas genom Daily Wins kunder under förutsättning att de tjänster som levereras är bland de bästa för den funktion som ska fyllas. För tjänster som fyller en unik nisch, har unika features eller på något annat sätt fyller bra funktioner för en kund som inte fylls av annat system i motsvarande grad så ska dessa levereras för kundens bästa. Kundens nytta skall alltid vara prio ett vilket bland annat innebär att kundens befintliga system ska användas i den utsträckning det är möjligt och inte bytas till ett annat likvärdig system även om det innebär provision till Daily Wins.
+Affärsavtalet //denna sektion är komihåg, inte nödvändig för affärsplanen
+Avtalsvillkorför en CIAO:
+•	Avtalet är tillsvidare och kan sägas upp på dagen.  
+•	Fakturering startar från den veckan CAIO är på plats hos kunden. Dvs uppstartsmånaden kommer faktureras med ¼ av månadskostnaden för varje vecka i uppstartsmånaden som gått, från första veckan CAIO är hos kunden första gången.
+•	Faktura skickas den första varje månad med förfallodatum den sista varje månad och gäller för tjänster den innevarande månaden.
+•	Tjänster som levereratats i fg månad vid avtalsstart läggs på den första fakturan i den efterföljande månaden.
+•	Månadsfaktureringen är fast oavsett röda dagar, ledighet eller sjukdom.
+Avtal om projektgenomföranden
+Kunden har i avtalet tecknat att projekt utförs på ROI analys, betalningen är ROI första året. Genomförande av ROI plan beslutas av vd eller utsedd ansvarig.
+Arbetskostnad är en central del i ersättningen då ett projekt som bedöms spara 1000 timmar per år värdeberäknas som 1000*arbetskostnad. Arbetskostnad = fg års personalkostnader/antal anställda under perioden enligt årsredovisningen.
+ROI projekt löpande besparing
+•	Ersättning: ROI 1 år = Förväntad årsbesparing  ett år.
+•	Beslut: Vd eller av vd utsedd. 
+ROI uppgift engångsinsats
+•	Ersättning: 50% på besparing
+•	Beslut: Ge kund beslutsmatris, rekommendation, närmast ansvarig.
+
+Taktik under 2025
+Söka investeringsstöd åt vår kund. Dessa stöd är olika mellan Regioner och utlysningar på Vinnova och Tillväxtverket är relativt specifika i vad och vem de ger stöd i så att det blir mer en möjlighet än en generell sak att kunna erbjuda kunden då det först en bit in i projektet blir möjligt att avgöra ifall det går att ens söka bidrag.
+Exempel på bidrag
+●	https://www.vgregion.se/regional-utveckling/omraden/naringsliv/foretagsfinansiering/digitaliseringscheck/ Exempel på Regionalt stöd, mer brett än statliga främst riktat till <50 anställda.
+●	https://tillvaxtverket.se/tillvaxtverket/sokfinansiering/utlysningar/utlysningar/starksmaochmedelstoraforetagskonkurrenskraftinnovationskraftochdigitalisering.8219.html Statligt stöd lämpligt för Bolagets typ av projekt men endast i Stockholms Regionen.
+●	https://www.vinnova.se/e/avancerad-digitalisering-industriell-2024-04161/avancerad-digitalisering-industriell-2024-04163/ Från Vinnova, mer inriktat men större stöd.
+
+Baserat på vad för specifika stöd det finns i en Region kan det användas i segmenteringen i den Regionen. Dessutom mer allmänt hållet desto större risk kan vi ta med att göra en ansökan tidigt i samarbetet.
+Equity Plan och Skalning
+Vi planerar att attrahera strategiska investerare, delägare som vill vara med på denna resa och bidra till bolagets succé. Detta är aktörer med expertis och nätverk inom AI, konsulting, digitalisering och andra specialområden. Detta kommer inte bara att stärka bolagets finansiella position, utan även skapa synergier för snabbare tillväxt och skalbarhet.
+Efter den initiala investeringen och grundteamet i bolaget är målet att på tre år skala bolaget till en omsättning över 100 MSEK med 80% i återkommande intäkter och ett R40 (omsättningstillväxt + EBITDA marginal) på minst 60. (Av dessa 60 ska åtminstone 30% vara från omsättningstillväxt. Inte räknat på det än men det bör räcka för att göra 100+ anställda till miljonärer och ha åtminstone 300 mil över till investerare och grundare).
+För att lyckas med detta behöver dels, erbjudandet tas emot mycket väl från bolagets kunder, det faktiska kundvärdet levereras som utlovat, AI tekniker möjliggöra att leveransen görs till en lägre kostnad än historiska konsultbolag och att vårt Bolag är såpass attraktivt att vi kan rekrytera vem vi vill. 
+För att snabbt kunna rekrytera talang ska bolaget erbjuda nyanställda stora personaloptionspaket. Vi kommer alltså inte tävla med andra företag med en högre lön utan att vi är en ny typ av konsultbolag där du som konsult jobbar inhouse och ändå får uppleva många olika utmaningar med möjligheten att bli expert i din gebit och vi erbjuder ett mycket stort ekonomiskt incitament genom personaloptioner som får ges ut gratis till de första 50 anställda. När Bolaget noteras kan personaloptionerna konverteras till aktier där man använder en del av optionerna till att betala för aktierna. Detta blir exiten för personalen. Därför är det viktigt med en treårshorisont med en notering av bolaget. Personal kan successivt under åren fortsätta växla optioner till aktier MEN inga nya likadana optionspaket kan ges ut efter noteringen. De första optionspaketen kapitalbeskattas med 30% (om man gör det som noterat så är skatten ca dubbelt upp.)
+Investerare tas in intialt, dels för extra säkerhet i form av kapital, men framför allt för att engagera fler personer och bygga en stark balansräkning redan från start.
+Skalning kommer att ske genom att:
+●	Vi kommer vända oss till mindre städer som inte approcheras ofta av konsulterbjudanden och där vår typ av kompetens kan förväntas vara ännu mer sällsynt än i de tre större städerna, vilket gör oss till en ovanlig företeelse.
+●	Personligt och generöst: Vi bjuder in vd:ar/grundare för 4-6 bolag i en stad som helst verkar inom samma bransch för lunchseminarium där vi bjuder på en omvärldsanalys på läget i AI - helst med vinkling på deras bransch. 
+●	Bygga starka samarbeten med branschorganisationer för att skapa en pipeline av potentiella kunder.
+●	Utveckla en franchisemodell där lokala partners kan erbjuda tjänsten enligt våra standarder och processer.
+Verktygslådan
+Vår verktygslåda består av beprövade system och lösningar som vi använder för att skapa skräddarsydda lösningar för våra kunder. Några av våra "go-to" system inkluderar:
+//Gör om nedan till en tabell.
+
+●	Bokföring		
+●	Fortnox: Ett kraftfullt verktyg för bokföring och ekonomisk hantering, som 			vi ofta integrerar i våra lösningar för små och medelstora företag. OBS: 			Ingen provision.
+●	Visma bokföringsverktyg, stort. OBS: Provision 15%
+●	Daily Wins Kvitto! OBS: Egenutvecklad
+●	Chatbot på hemsidan. OBS: Egenutvecklad
+●	Management/Ledning
+●	https://boardeaser.com/ ett system för att hantera styrelsearbete med protokoll, vdrapporter och ekonomiuppföljning med digitala strukturer. Eventuellt provision
+●	Calendly mötesbokning. OBS: Ingen provision.
+
+●	Market automation
+●	https://telebyran.se/ Telefonväxelsystem och AI för att transkribera möten, föra statistik, automatuppringning och info insamling. Kost 60k+15k per anv/år. OBS: Har åfprogram.
+●	https://linkedclient.com/ LinkedClient fokuserar primärt på att effektivisera försäljningsprocesser via LinkedIn, men det inkluderar även funktioner för e-postkampanjer och CRM-integrationer som sträcker sig utanför LinkedIn. Plattformen syftar till att hantera hela kundresan. Vi tittar primärt på det som market automation till linkedin. OBS Provision 25%.
+●	Linkedin Sales Navigator: Linkedin verktyg för viss systematik att arbeta med leads på LinkedIn.
+●	https://www.surfe.com/ få kontakter automatiskt tar kontakter från LinkedIn & Sales Navigator till Pipedrive: Syfte: Sparar tid genom  att kopiera över kontakter och affärstillfällen till Pipedrive från Linkedin. Vinst 10 minuter per lead/affärstillfälle. Det får även det jobbet gjort.
+●	CRM, CSM (Pipedrive/Upsale m.fl. vi bör väl välja ett kanske.)
+●	Pipedrive: Integrationer med många andra system. Låg instegströskel prismässigt. Genomsnittlig användarvänlighet. Kan ha rätt effektiva processer med det. OBS Provision, kolla upp vad.
+●	Skräddarsydda/halvgeneriska AI lösningar för specifika utmaningar
+●	Exempel: Middleware som tog utförda supporttickets och skapade fakturor automatiskt i Fortnox genom ett egendesignat middleware program.
+●	Internkommunikation
+●	Teams suiten
+●	Mattermost (slack alternativ, i princip gratis kan hostas på egna serverar eller vi kan hjälpa till att hosta/managera i Sverige)
+Denna lista är flexibel och kan kontinuerligt utökas för att inkludera fler system baserat på kundens behov och tekniska framsteg.
+
+InHouse AI as a Service
+Daily Wins erbjuder en AI-optimerad arbetsstation som en tjänst för företag som vill maximera sitt AI-utnyttjande utan tekniska hinder. För 3 000 SEK per månad får kunden en kraftfull dator med en förinstallerad lokal LLM som fungerar som AI-motor för företagets verksamhet.
+Fördelar för kunden:
+●	Färdiginstallerad och optimerad – Ingen konfiguration eller installation krävs.
+●	AI på plats – Möjliggör snabb bearbetning av data utan att förlita sig på molntjänster.
+●	Säkerhet & integritet – Lokalt driven AI minimerar behovet av att skicka känsliga data till externa system.
+●	Sömlös integration – Förinstallerade verktyg som kan kopplas till Daily Wins övriga tjänster, såsom AI Officer och SaaS-lösningar.
+●	Prenumerationsmodell – Ingen hög initial investering, enkel att uppgradera eller ersätta vid behov.
+Positionering
+●	Marginal gains. Vi finner och gör många små förbättringar, inte stora blue water projekt.
+●	Alltid vinst! Kunden räknar alltid hem oss med en ROI på 300% år efter år.
+●	Vi tar bort det tråkiga så vår kund kan fokusera på sin affär.
+
+Konkurrens - vad erbjuder andra?
+Konkurrenssituationen för Daily Wins präglas av en växande marknad för AI-tjänster i Sverige, där både etablerade teknikkonsulter och specialiserade AI-företag konkurrerar om företagskunder som söker kostnadseffektiva lösningar för att integrera AI i sin verksamhet. Större aktörer som Knowit, Atea och Cognizant erbjuder breda AI-relaterade tjänster och riktar sig mot företag i olika storlekar och sektorer, medan mindre aktörer som Modulai och AIUC fokuserar på skräddarsydda AI-lösningar med hög teknisk expertis. Samtidigt finns plattformar som Onsiter som möjliggör flexibel tillgång till AI-kompetens, och företag som Aixia erbjuder "AI som en tjänst", vilket liknar Daily Winss modell att erbjuda AI-expertis utan långsiktiga anställningar.
+
+Daily Wins positionerar sig som en nischad aktör med sitt koncept "AI Officer som en tjänst", där värdet ligger i att identifiera, genomföra och följa upp AI-projekt med garanterad ROI på 300%.
+
+Företag
+Storlek
+Rådgivning
+Utveckling
+Implementering (3:e parts verktyg)
+AI-officer som tjänst
+Skräddarsydda lösningar
+Webbplats
+Omsättning (TKR)
+
+Modulai AB
+Små
+Ja
+Ja
+Ja
+Nej
+Ja
+modulai.com
+34195
+
+Eghed
+Små
+Ja
+Ja
+Nej
+Nej
+Ja
+https://eghed.se/
+17716
+
+Knowit Experience Sverige AB
+Medel
+Ja
+Ja
+Ja
+Nej
+Ja
+knowit.se
+236559
+
+AIUC
+Micro
+Ja
+Ja
+Nej
+Nej
+Ja
+aiuc.se
+0
+
+Liminity AB
+Små
+Ja
+Ja
+Ja
+Nej
+Ja
+liminity.se
+9127
+
+Innowise
+Stor
+Ja
+Ja
+Ja
+Nej
+Ja
+innowise.com
+
+
+Cognizant
+Medel
+Ja
+Ja
+Ja
+Nej
+Ja
+cognizant.com
+331337
+
+Arange AI
+Micro
+Ja
+Ja
+Ja
+Nej
+Ja
+arange.ai
+0
+
+Aixia
+Medel
+Ja
+Nej
+Ja
+Nej
+Nej
+https://aixia.se/
+114465
+
+Atea
+Stor
+Ja
+Ja
+Ja
+Nej
+Ja
+atea.se
+12974000
+
+Silo AI Sweden AB
+Små
+Ja
+Ja
+Nej
+Nej
+Ja
+silo.ai
+32085
+
+Förklaringar:
+●	Rådgivning: Hjälper företag att identifiera AI-möjligheter, skapa strategier och analysera ROI.
+●	Utveckling: Bygger AI-modeller och anpassade tekniska lösningar.
+●	Implementering: Företag som aktivt hjälper kunder att integrera redan existerande effektivitetsverktyg (t.ex. RPA- eller BI-verktyg) i deras arbetsflöden.
+●	AI som tjänst: Tillhandahåller AI-experter eller AI-plattformar som en tjänst på abonnemangsbasis.
+●	Skräddarsydda lösningar: Utvecklar lösningar anpassade till kundens specifika behov.
+Team Daily Wins
+Anders Bratland
+Anders är teknisk ledare, agil Coachen och arkitekt med sällsynt bredd – från djup programmering till organisatorisk förändring. Med 25+ års erfarenhet från bolag som H&M, Nelly.com och Zesec kombinerar han teknisk spets med ledarskap och teamutveckling. Han är motorn bakom Daily Wins tekniska leveranskapacitet, och hans förmåga att bygga team, system och processer från grunden är avgörande för företagets skalbarhet. Anders är också starkt engagerad i lärande och kompetensutveckling, vilket gör teamet bättre varje dag.
+Johnny Berlic
+Johnny är en erfaren företagsledare och innovationsdriven entreprenör med bakgrund som vd för börsnoterade techbolag. Med sin förmåga att bygga bolag från idé till exit och navigera i komplexa affärslandskap fungerar han som en strategisk motor för Daily Wins. Hans styrkor ligger i att snabbt identifiera tillväxtmöjligheter, skapa effektiva organisationer och bryta ner komplexa problem till konkreta handlingar. Johnny står för den kommersiella visionen och har ett tydligt track record av att leda team till marknadsledarskap.
+Pierre Chamat
+Pierre är branding- och e-handelsexpert med över 20 års erfarenhet av att bygga starka varumärken och konverteringsdrivna kampanjer. Han har haft nyckelroller på Babyshop och andra ledande retailbolag där han ansvarat för digital strategi, kampanjplanering och internationell expansion. Hans känsla för varumärkets roll i försäljning är ovärderlig i ett AI-företag där förtroende och positionering är centrala. Pierre gör Daily Wins till ett varumärke som både sticker ut och känns tryggt.
+Sofia Magnusson
+Sofia är en digital tillväxtstrateg med djup kompetens inom AI, e-handel och affärsutveckling. Med erfarenhet från att ha grundat och drivit ett VC-finansierat e-handelsbolag, är hon särskilt stark på att operationalisera idéer, skapa mätbara resultat och driva innovationsprocesser. Hon brinner för att koppla teknik till affärsnytta, och är en nyckelperson när det gäller att designa AI-lösningar med verklig ROI. Hon har även starka nätverk inom både tech och investeringar, vilket ger Daily Wins access till värdefulla samarbeten.
+Patrik Stenberg
+Patrik är en av Sveriges mest erfarna säljutbildare och ledarskapsCoachener, med bakgrund som nationell försäljningschef och utbildningsansvarig på bolag som Carlsberg, Sector Alarm och Sesol. Han är en mästare på att bygga högpresterande säljteam, skapa kulturförändring och driva resultat – inte bara i siffror, utan även i människors motivation. På Daily Wins bygger Patrik upp säljorganisationen från grunden, utbildar i affärsmannaskap och säkrar att varje kundmöte genomsyras av värde och trovärdighet. Han är ett nav för relationsbyggande och tillväxt.
+Fredrik Winblad – Senior DevOps & Systemutvecklare
+Teknisk konsult med djup erfarenhet av .NET, Azure, CI/CD och integrationssystem. Har bl.a. byggt prissättningssystem för Volvo Cars med hög tillgänglighet och stora transaktionsvolymer. Expert på cloud automation och systemdrift.
+Alex Tjusling – Scrum Master & Testledare
+Agil ledare med lång erfarenhet från Ericsson, Sigma och CEVT. Specialist på integrationstestning, teamfacilitering och processförbättring inom tekniska miljöer. Driver effektiv leverans i komplexa projektmiljöer.
+Varför investera?
+Exponentiell marknadstillväxt – AI är den största teknologiska möjligheten i modern tid
+Den globala AI-marknaden växer i en rasande takt och förväntas överstiga 1 000 miljarder USD innan decenniet är slut. Företag i alla branscher står inför ett paradigmskifte där automation, prediktiv analys och AI-drivna beslutsstöd blir avgörande konkurrensfördelar. Daily Wins är positionerat mitt i detta skifte, med ett erbjudande som demokratiserar tillgången till avancerad AI för små och medelstora företag – en målgrupp som hittills varit eftersatt i AI-revolutionen.
+Innovativ affärsmodell – Vi levererar konkret ROI och har en tydlig väg till lönsamhet
+Vår modell med "Chief AI Officer som en tjänst" är unik i sitt slag. Vi kombinerar strategisk rådgivning med praktisk implementering – och vi tar ansvar för resultatet. Genom att koppla en del av vår ersättning till faktisk avkastning (ROI) skapar vi både förtroende och affärslogik för våra kunder. Vår fasta månadskostnad ger stabila återkommande intäkter, och våra SaaS-lösningar öppnar upp för skalbarhet med hög marginal. Den tydliga kopplingen mellan värdeskapande och intäktsmodell gör att vi kan växa lönsamt.
+Erfaret team – Vi har redan byggt, skalat och sålt framgångsrika konsult- och techbolag
+Grundarna bakom Daily Wins har mångårig erfarenhet av att bygga bolag inom både teknik och management. Vi har drivit internationella tillväxtresor, genomfört exit-affärer och arbetat i ledande roller inom både startups och större bolag. Det ger oss inte bara det strategiska perspektivet – vi vet vad som krävs operativt för att gå från idé till resultat. Med ett starkt nätverk inom både AI, affärsutveckling och investering är vi rustade att ta Daily Wins till nästa nivå.
+

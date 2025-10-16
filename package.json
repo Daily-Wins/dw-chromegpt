@@ -1,0 +1,23 @@
+{
+  "name": "ai-form-filler-mvp",
+  "version": "2.0.0",
+  "description": "Chrome extension that automatically fills web forms using OpenAI Assistant with RAG - Modular Architecture",
+  "main": "setup/setup-assistant.js",
+  "scripts": {
+    "setup": "node setup/setup-assistant.js",
+    "update": "node setup/update-assistant.js"
+  },
+  "keywords": [
+    "chrome-extension",
+    "openai",
+    "assistant",
+    "form-filler",
+    "ai",
+    "rag"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.67.3"
+  }
+}

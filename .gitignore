@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+
+# API keys and secrets
+*.key
+*.pem
+
+# Company documents (add your own)
+*.pdf
+*.docx
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Chrome extension packaging
+*.zip
+*.crx
+*.pem
