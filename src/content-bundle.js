@@ -543,12 +543,18 @@ class UIManager {
       console.log(`[UIManager] Button update: "${text}"${background ? ` (bg: ${background})` : ''}`);
       btn.textContent = text;
 
-      // Make button more prominent when active
-      if (background) {
-        btn.style.background = background;
+      // Make button larger when showing text (not just emoji)
+      if (text.length > 2) {
         btn.style.padding = '12px 20px !important';
         btn.style.fontSize = '14px !important';
-        btn.style.border = 'none !important';
+        if (background) {
+          btn.style.background = background;
+          btn.style.border = 'none !important';
+        } else {
+          // Keep the semi-transparent style but make it more visible
+          btn.style.background = 'rgba(102, 126, 234, 0.25) !important';
+          btn.style.border = '1px solid rgba(102, 126, 234, 0.4) !important';
+        }
       }
     } else {
       console.warn('[UIManager] Button not found when trying to update');
@@ -572,19 +578,19 @@ class UIManager {
   }
 
   setSuccess(filled, failed, autoResetDelay = 3000) {
-    this.updateButton(`✓ Klart! ${filled} fyllda, ${failed} misslyckades`, '#4CAF50');
+    this.updateButton(`✅ Klart! ${filled} fyllda, ${failed} misslyckades`);
     this._setDisabled(false);
     setTimeout(() => this.reset(), autoResetDelay);
   }
 
   setError(message = '❌ Fel', autoResetDelay = 5000) {
-    this.updateButton(message, '#f44336');
+    this.updateButton(message);
     this._setDisabled(false);
     setTimeout(() => this.reset(), autoResetDelay);
   }
 
   setReload() {
-    this.updateButton('🔄 Ladda om sidan', '#FF9800');
+    this.updateButton('🔄 Ladda om sidan');
   }
 
   reset() {
