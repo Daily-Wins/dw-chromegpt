@@ -444,9 +444,6 @@ class UIManager {
       bottom: 20px !important;
       right: 20px !important;
       z-index: 2147483647 !important;
-      display: flex !important;
-      align-items: center !important;
-      gap: 8px !important;
     `;
 
     // Create main button - more discrete
@@ -455,6 +452,7 @@ class UIManager {
     this.button.textContent = '🤖';
     this.button.title = 'Fyll formulär med AI';
     this.button.style.cssText = `
+      position: relative !important;
       padding: 10px 12px !important;
       background: rgba(102, 126, 234, 0.15) !important;
       color: #667eea !important;
@@ -469,50 +467,63 @@ class UIManager {
     `;
     this.button.onclick = () => this.onClick();
 
-    // Hover effect
-    this.button.onmouseenter = () => {
-      this.button.style.background = 'rgba(102, 126, 234, 0.25) !important';
-      this.button.style.transform = 'scale(1.05)';
-    };
-    this.button.onmouseleave = () => {
-      if (!this.button.disabled) {
-        this.button.style.background = 'rgba(102, 126, 234, 0.15) !important';
-        this.button.style.transform = 'scale(1)';
-      }
-    };
-
-    // Create close button
+    // Create close button (hidden by default, shown on hover)
     const closeBtn = document.createElement('button');
     closeBtn.className = `${this.buttonClass}-close`;
     closeBtn.textContent = '×';
     closeBtn.title = 'Inaktivera för denna sida';
     closeBtn.style.cssText = `
-      padding: 6px 10px !important;
-      background: rgba(244, 67, 54, 0.1) !important;
-      color: #f44336 !important;
-      border: 1px solid rgba(244, 67, 54, 0.2) !important;
-      border-radius: 6px !important;
+      position: absolute !important;
+      top: -4px !important;
+      right: -4px !important;
+      width: 16px !important;
+      height: 16px !important;
+      padding: 0 !important;
+      background: #f44336 !important;
+      color: white !important;
+      border: 1px solid white !important;
+      border-radius: 50% !important;
       cursor: pointer !important;
-      font-size: 18px !important;
+      font-size: 12px !important;
       font-family: Arial, sans-serif !important;
-      line-height: 1 !important;
+      line-height: 14px !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      opacity: 0 !important;
       transition: all 0.2s ease !important;
-      backdrop-filter: blur(10px) !important;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3) !important;
     `;
     closeBtn.onclick = (e) => {
       e.stopPropagation();
       this.onClose();
     };
 
-    closeBtn.onmouseenter = () => {
-      closeBtn.style.background = 'rgba(244, 67, 54, 0.2) !important';
+    // Show/hide close button on container hover
+    container.onmouseenter = () => {
+      closeBtn.style.opacity = '1';
+      this.button.style.background = 'rgba(102, 126, 234, 0.25) !important';
+      this.button.style.transform = 'scale(1.05)';
     };
-    closeBtn.onmouseleave = () => {
-      closeBtn.style.background = 'rgba(244, 67, 54, 0.1) !important';
+    container.onmouseleave = () => {
+      closeBtn.style.opacity = '0';
+      if (!this.button.disabled) {
+        this.button.style.background = 'rgba(102, 126, 234, 0.15) !important';
+        this.button.style.transform = 'scale(1)';
+      }
     };
 
+    closeBtn.onmouseenter = () => {
+      closeBtn.style.background = '#da190b !important';
+      closeBtn.style.transform = 'scale(1.1)';
+    };
+    closeBtn.onmouseleave = () => {
+      closeBtn.style.background = '#f44336 !important';
+      closeBtn.style.transform = 'scale(1)';
+    };
+
+    this.button.appendChild(closeBtn);
     container.appendChild(this.button);
-    container.appendChild(closeBtn);
     document.body.appendChild(container);
     console.log('[UIManager] Button created and added to DOM');
   }
